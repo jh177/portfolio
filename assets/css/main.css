@@ -2085,7 +2085,7 @@ input, select, textarea {
 		position: relative;
 	}
 
-    .image:hover{
+    .image.avatar:hover{
         transform: scale(1.05);
     }
 
