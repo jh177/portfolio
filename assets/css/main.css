@@ -266,6 +266,18 @@ input, select, textarea {
     margin-right: 32px;
   }
 
+  .experience-img{
+    width: 100px;
+    height: 50px;
+		object-fit: contain;
+    margin-right: 32px;
+  }
+
+  .experience-link{
+		text-decoration: none;
+		border: 0 !important;
+  }
+
 /* Row */
 
 	.row {
